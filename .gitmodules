@@ -1,0 +1,3 @@
+[submodule "themes/anatole-hugo-theme"]
+	path = themes/anatole-hugo-theme
+	url = https://github.com/aureliobarbosa/anatole-hugo-theme.git
