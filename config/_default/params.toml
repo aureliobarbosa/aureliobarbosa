@@ -1,9 +1,9 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
-#copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+title = "Marco Barbosa"
+author = "Marco Barbosa"
+# copyright = "Marco A. A. Barbosa, reserved rights. 2024."
+description = "Physicist | Professor | Researcher | Open Source Enthusiast"
+profilePicture = "images/marco.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
