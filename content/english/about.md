@@ -19,9 +19,10 @@ If you are interested in debating or discussing any of these topics, feel free t
 
 I obtained my Ph.D. in Physics from University of São Paulo in 2008 and since 2010 I have been working as a professor at  [University of Brasília](https://www.unb.br), at the campus [UnB Planaltina](https://fup.unb.br).
 
-My original area of scientific research was statistical physics, and I did investigate systems at the interface between physics and chemistry. My previous academic work was done mostly investigating properties of water (or systems that may resemble it),models for drug delivery, and polymers.
+My original area of scientific research was statistical physics, and I did investigate systems at the interface between physics and chemistry. My academic was mainly about properties of liquid water (or systems that could resemble it), models for drug delivery, proteins and polymers.
 
 In order to solve problems on these subjects it was typically necessary to develop softwares and 'code' in either C or  Python, and it  was also common to use scripts linux/unix shell and gnuplot (not to mention Maple). 
+Software engineering eventually appeared at this point to improve the scientific workflow.
 
 ***
 
