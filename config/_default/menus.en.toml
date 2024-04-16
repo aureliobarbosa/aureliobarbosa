@@ -10,11 +10,11 @@
   identifier = "blog"
   url = "/blog/"
 
-  [[main]]
-  name = "Software Engineering"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
+  # [[main]]
+  # name = "Software Engineering"
+  # weight = 300
+  # identifier = "portfolio"
+  # url = "/portfolio/"
 
   [[main]]
   name = "Academic"
@@ -35,12 +35,12 @@
   url = "/education/"
   parent = "accomplishments"
 
-  [[main]]
-  name = "Science Diffusion"
-  weight = 530
-  identifier = "diffusion"
-  url = "/diffusion/"
-  parent = "accomplishments"
+  # [[main]]
+  # name = "Science Diffusion"
+  # weight = 530
+  # identifier = "diffusion"
+  # url = "/diffusion/"
+  # parent = "accomplishments"
 
   [[main]]
   name = "Mentoring"
