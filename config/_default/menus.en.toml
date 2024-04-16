@@ -42,6 +42,13 @@
   url = "/diffusion/"
   parent = "accomplishments"
 
+  [[main]]
+  name = "Mentoring"
+  weight = 540
+  identifier = "mentoring"
+  url = "/mentoring/"
+  parent = "accomplishments"
+
 
   # [[main]]
   # name = "Contact"
