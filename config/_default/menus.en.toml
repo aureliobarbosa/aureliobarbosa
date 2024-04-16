@@ -11,29 +11,37 @@
   url = "/post/"
 
   [[main]]
-  name = "Expertise"
+  name = "Software Engineering"
   weight = 300
   identifier = "portfolio"
   url = "/portfolio/"
 
   [[main]]
-  name = "Projects"
+  name = "Academic"
   weight = 400
   identifier = "accomplishments"
 
   [[main]]
-  name = "research"
+  name = "Research"
   weight = 510
   identifier = "awards"
   url = "/awards/"
   parent = "accomplishments"  
 
   [[main]]
-  name = "Certifications"
+  name = "Education"
   weight = 520
   identifier = "certifications"
   url = "/certifications/"
   parent = "accomplishments"
+
+  [[main]]
+  name = "Science Diffusion"
+  weight = 530
+  identifier = "diffusion"
+  url = "/diffusion/"
+  parent = "accomplishments"
+
 
   # [[main]]
   # name = "Contact"
