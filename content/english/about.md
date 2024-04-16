@@ -15,7 +15,8 @@ mentor students to solve problems using the programming languages languages C an
 
 If you want to improve your numerical or scientific workflow, contact me through [e-mail](mailto:aureliobarbosa@gmail.com) or on [Linkedin](https://www.linkedin.com/in/marco-barbosa-196638234/).
 
-In this page you will find posts about current and past activities including research projects, lectures, and the contents of my courses (mostly in portuguese).
+In this page you will find information on current and past activities.
+ <!-- including research projects, lectures, and the contents of my courses (mostly in portuguese). -->
 
 ## Academic Career
 ***
