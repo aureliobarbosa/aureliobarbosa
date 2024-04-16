@@ -24,8 +24,8 @@
   [[main]]
   name = "Research"
   weight = 510
-  identifier = "awards"
-  url = "/awards/"
+  identifier = "research"
+  url = "/research/"
   parent = "accomplishments"  
 
   [[main]]
