@@ -31,8 +31,8 @@
   [[main]]
   name = "Education"
   weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
+  identifier = "education"
+  url = "/education/"
   parent = "accomplishments"
 
   [[main]]
