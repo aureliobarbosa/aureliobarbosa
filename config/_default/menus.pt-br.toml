@@ -1,0 +1,63 @@
+  [[main]]
+  name = "Início"
+  identifier = "home"
+  weight = 100
+  url = "/pt-br/"
+
+  [[main]]
+  name = "Blog"
+  weight = 200
+  identifier = "blog"
+  url = "/pt-br/blog/"
+
+  # [[main]]
+  # name = "Software Engineering"
+  # weight = 300
+  # identifier = "portfolio"
+  # url = "/portfolio/"
+
+  [[main]]
+  name = "Academia"
+  weight = 400
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Pesquisa"
+  weight = 510
+  identifier = "research"
+  url = "/pt-br/research/"
+  parent = "accomplishments"  
+
+  [[main]]
+  name = "Educação"
+  weight = 520
+  identifier = "education"
+  url = "/pt-br/education/"
+  parent = "accomplishments"
+
+  # [[main]]
+  # name = "Extensão"
+  # weight = 530
+  # identifier = "diffusion"
+  # url = "/diffusion/"
+  # parent = "accomplishments"
+
+  [[main]]
+  name = "Orientações e Mentorias"
+  weight = 540
+  identifier = "mentoring"
+  url = "/pt-br/mentoring/"
+  parent = "accomplishments"
+
+
+  # [[main]]
+  # name = "Contact"
+  # weight = 600
+  # identifier = "contact"
+  # url = "/contact/"
+
+  [[main]]
+  name = "Sobre Mim"
+  weight = 600
+  identifier = "about"
+  url = "/pt-br/about/"
