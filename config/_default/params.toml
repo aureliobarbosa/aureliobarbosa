@@ -74,7 +74,7 @@ url = "https://github.com/aureliobarbosa"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:aureliobarbosa@egmail.com"
+url = "mailto:aureliobarbosa@gmail.com"
 
 [mermaid]
 # enable = true
