@@ -11,3 +11,11 @@ contentDir = "content/english"
 # weight = 2
 # LanguageDirection = "rtl" 
 # LanguageName = "AR"
+
+[pt-br]
+title = "Site profissional"
+# description = "Site Profissional - bla bla bla"
+description = "Professor | Pesquisador | Entusiasta de Open Source"
+contentDir = "content/portuguese" 
+weight = 2
+LanguageName = "PT-br"
