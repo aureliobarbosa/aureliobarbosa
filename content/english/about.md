@@ -25,6 +25,6 @@ In order to solve problems on these subjects it was typically necessary to devel
 
 ***
 
-You navigate my academic production, through my [Lattes Curriculum][cv-lattes] or take a look on my publications using [ORCID](https://orcid.org/0000-0003-1798-9890). 
+You navigate my academic production through the official brazilian academic curriculum, [Curriculo Lattes][cv-lattes], or take a look on my publications using [ORCID](https://orcid.org/0000-0003-1798-9890). 
 
 [cv-lattes]: http://lattes.cnpq.br/5720622055548812
