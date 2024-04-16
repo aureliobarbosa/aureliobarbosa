@@ -6,7 +6,6 @@ aliases = ["research"]
 author = "Marco Barbosa"
 +++
 
-
 ### Selected Articles
 
 ***
@@ -18,7 +17,6 @@ author = "Marco Barbosa"
 5. Barbosa, Marco A. A.; Henriques, Vera B.; Frustration and anomalous behavior in the Bell-Lavis model of liquid water. Physical Review. E, v. 77, p. 051204, 2008. [Access](http://dx.doi.org/10.1103/PhysRevE.77.051204).
 
 For my full academic production, check [Curriculo Lattes][cv-lattes].
-
 
 
 [cv-lattes]: http://lattes.cnpq.br/5720622055548812

@@ -6,8 +6,7 @@ aliases = ["mentoring"]
 author = "Marco Barbosa"
 +++
 
-### Students involved  academic research (PhD, master and undergrad tuition).
-
+### Students involved academic research (PhD, master and undergrad).
 ***
 
 - [Eduardo Ozório Rizzatti](http://lattes.cnpq.br/9776753274036815)
@@ -29,11 +28,16 @@ author = "Marco Barbosa"
 ### Undergrad Students mentored in Science Diffusion and/or outreach
 
 In addition to the students mentioned above I also mentored more than a dozen students on 
-Undergrad Scientific Research and Scientific Outreach Projects at Universidade de Brasília. 
+Undergrad Scientific Research and Scientific Outreach Projects at Universidade de Brasília.
 
 During 2012-2014 I was appointed the Executive Coordinator of the project
 "Junior Cientist at UnB Planaltina", which engaged high school students to work on research and outreach activities related to our Faculty. This project engaged 13 professors, 10 undergraduate students and 82 high school students, for 3 years.
 Team included Janaína Deane de Abreu Sá Diniz (coordinator) e Jacylene Rodrigues (manager).
+
+More details on [Curriculo Lattes][cv-lattes].
+
+
+[cv-lattes]: http://lattes.cnpq.br/5720622055548812
 
 
 ### Link to my former supervisors and supervisors
