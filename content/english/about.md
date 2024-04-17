@@ -14,5 +14,6 @@ mentor students to evolve their problem solving capabilities using programming l
 
 If you want to improve your numerical or scientific workflow, <!--see the projects on my portfolio, check my CV --> contact me through [e-mail](mailto:aureliobarbosa@gmail.com) or on [Linkedin](https://www.linkedin.com/in/marco-barbosa-196638234/). 
 
-On this page you will find information about my current and past activities. If interested, my academic activities are 
-described with more detail on the Academic menu above, which includes Research, Education, and Mentoring.
+
+On this page you will find information about my current and past activities. 
+I currently work as professor and researcher at [University of Brasilia](https://www.unb.br), campus [UnB Planaltina](https://fup.unb.br). If you have interest on  my academic activities, they are described with more detail on the Academic menu above, which includes Research, Education, and Mentoring.
