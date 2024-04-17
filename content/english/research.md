@@ -17,7 +17,7 @@ author = "Marco Barbosa"
 4. Barbosa, Marco A. A.; Widom, Benjamin; Molecular correlations and solvation in simple fluids. The Journal of Chemical Physics, v. 132, p. 214506, 2010. [Access](http://dx.doi.org/10.1063/1.3431531).
 5. Barbosa, Marco A. A.; Henriques, Vera B.; Frustration and anomalous behavior in the Bell-Lavis model of liquid water. Physical Review. E, v. 77, p. 051204, 2008. [Access](http://dx.doi.org/10.1103/PhysRevE.77.051204).
 
-Those are the most important papers. My full academic production is listed on [ORCID](https://orcid.org/0000-0003-1798-9890). 
+Those are my most important papers. My full academic production is listed on both [ORCID](https://orcid.org/0000-0003-1798-9890) and [Research Gate](https://www.researchgate.net/profile/Marco-Barbosa-4).
 
 
 ### Academic Career
