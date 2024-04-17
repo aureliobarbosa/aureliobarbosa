@@ -19,36 +19,35 @@
   [[main]]
   name = "Academic"
   weight = 400
-  identifier = "accomplishments"
+  identifier = "academic"
 
   [[main]]
   name = "Research"
   weight = 510
   identifier = "research"
   url = "/research/"
-  parent = "accomplishments"  
+  parent = "academic"
 
   [[main]]
   name = "Education"
   weight = 520
   identifier = "education"
   url = "/education/"
-  parent = "accomplishments"
+  parent = "academic"
 
   # [[main]]
   # name = "Science Diffusion"
   # weight = 530
   # identifier = "diffusion"
   # url = "/diffusion/"
-  # parent = "accomplishments"
+  # parent = "academic"
 
   [[main]]
   name = "Mentoring"
   weight = 540
   identifier = "mentoring"
   url = "/mentoring/"
-  parent = "accomplishments"
-
+  parent = "academic"
 
   # [[main]]
   # name = "Contact"
