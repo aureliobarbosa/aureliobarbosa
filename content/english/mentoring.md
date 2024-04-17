@@ -6,7 +6,7 @@ aliases = ["mentoring"]
 author = "Marco Barbosa"
 +++
 
-### Students involved academic research (PhD, master and undergrad).
+### Students involved in academic research (PhD, master and undergrad).
 ***
 
 - [Eduardo Ozório Rizzatti](http://lattes.cnpq.br/9776753274036815)
@@ -25,11 +25,11 @@ author = "Marco Barbosa"
 - [Juaci Vitória Malaquias](https://www.embrapa.br/equipe/-/empregado/333881/juaci-vitoria-malaquias)
     - Master's in Materials Science, UnB (2014).
 
-### Undergrad Students mentored in Science Diffusion and/or outreach
+### Undergrad students mentored on science research or outreach projects
 
 In addition to the students mentioned above I also mentored more than a dozen students on 
-undergrad scientific research and scientific outreach projects at University of Brasilia.
+undergraduate research scholars and undergraduate extension fellows on scientific research and outreach projects at University of Brasilia.
 
-During 2012-2014 I was appointed the Executive Coordinator of the project
-"Junior Cientist at UnB Planaltina", which engaged high school students to work on research and outreach activities related to our Faculty. This project engaged 13 professors, 10 undergraduate students and 82 high school students, for 3 years.
-Team included [Janaína Deane de Abreu Sá Diniz](https://pesquisar.unb.br/professor/janaina-deane-de-abreu-sa-diniz) e [Jacylene Rodrigues](https://www.linkedin.com/in/jacylene-rodrigues-006b35b8/) (technical supervisor).
+During 2012-2014 I was appointed the executive coordinator of the project
+"Junior Cientist", which engaged high school students to work on research and outreach activities related to our faculty. This project engaged 13 professors, 10 undergraduate students and 82 high school students, for 3 years.
+Team included [Janaína Deane de Abreu Sá Diniz](https://pesquisar.unb.br/professor/janaina-deane-de-abreu-sa-diniz) (coordinator) e [Jacylene Rodrigues](https://www.linkedin.com/in/jacylene-rodrigues-006b35b8/) (technical supervisor).
