@@ -49,6 +49,14 @@
   url = "/mentoring/"
   parent = "academic"
 
+  [[main]]
+  name = "Academic Career"
+  weight = 550
+  identifier = "career"
+  url = "/career/"
+  parent = "academic"
+
+
   # [[main]]
   # name = "Contact"
   # weight = 600
@@ -60,3 +68,4 @@
   weight = 600
   identifier = "about"
   url = "/about/"
+
