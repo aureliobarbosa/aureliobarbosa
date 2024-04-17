@@ -1,8 +1,6 @@
 [en]
 title = "Professional site"
 weight = 1
-# title = "Site profissional"
-# description = "Professor | Researcher | Open Source Enthusiast\n@University of Brasilia, Brazil"
 LanguageName = "EN"
 contentDir = "content/english"
 
