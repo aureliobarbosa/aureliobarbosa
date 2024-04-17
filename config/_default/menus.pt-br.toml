@@ -4,11 +4,11 @@
   weight = 100
   url = "/pt-br/"
 
-  [[main]]
-  name = "Blog"
-  weight = 200
-  identifier = "blog"
-  url = "/pt-br/blog/"
+  # [[main]]
+  # name = "Blog"
+  # weight = 200
+  # identifier = "blog"
+  # url = "/pt-br/blog/"
 
   # [[main]]
   # name = "Software Engineering"
@@ -19,35 +19,35 @@
   [[main]]
   name = "Academia"
   weight = 400
-  identifier = "accomplishments"
+  identifier = "academic"
 
   [[main]]
   name = "Pesquisa"
   weight = 510
   identifier = "research"
   url = "/pt-br/research/"
-  parent = "accomplishments"  
+  parent = "academic"  
 
   [[main]]
   name = "Educação"
   weight = 520
   identifier = "education"
   url = "/pt-br/education/"
-  parent = "accomplishments"
+  parent = "academic"
 
   # [[main]]
   # name = "Extensão"
   # weight = 530
   # identifier = "diffusion"
   # url = "/diffusion/"
-  # parent = "accomplishments"
+  # parent = "academic"
 
   [[main]]
   name = "Orientações e Mentorias"
   weight = 540
   identifier = "mentoring"
   url = "/pt-br/mentoring/"
-  parent = "accomplishments"
+  parent = "academic"
 
 
   # [[main]]
