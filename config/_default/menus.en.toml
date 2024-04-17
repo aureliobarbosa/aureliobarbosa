@@ -4,11 +4,11 @@
   weight = 100
   url = "/"
 
-  [[main]]
-  name = "Blog"
-  weight = 200
-  identifier = "blog"
-  url = "/blog/"
+  # [[main]]
+  # name = "Blog"
+  # weight = 200
+  # identifier = "blog"
+  # url = "/blog/"
 
   # [[main]]
   # name = "Software Engineering"
