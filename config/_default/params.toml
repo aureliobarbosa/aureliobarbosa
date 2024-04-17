@@ -1,7 +1,7 @@
 
 title = "Marco Barbosa"
 author = "Marco Barbosa"
-# copyright = "Marco A. A. Barbosa, reserved rights. 2024."
+copyright = "Marco Barbosa. Developed Using [Hugo](https://gohugo.io/) and [Anatole](https://themes.gohugo.io/themes/anatole/)."
 description = "Professor | Researcher | Open Source Enthusiast\n@University of Brasilia"
 profilePicture = "images/marco.jpg"
 keywords = ""
