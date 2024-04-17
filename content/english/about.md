@@ -16,4 +16,4 @@ If you want to improve your numerical or scientific workflow, <!--see the projec
 
 
 On this page you will find information about my current and past activities. 
-I currently work as professor and researcher at [University of Brasilia](https://www.unb.br), campus [UnB Planaltina](https://fup.unb.br). If you have interest on  my academic activities, they are described with more detail on the Academic menu above, which includes Research, Education, and Mentoring.
+I currently work as professor and researcher at [University of Brasilia](https://www.unb.br), campus [UnB Planaltina](https://fup.unb.br). If you are interested about my academic activities, you can look into the *Academic* menu above, which includes Research, Education, and Mentoring.
