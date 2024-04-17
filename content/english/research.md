@@ -35,14 +35,18 @@ Software engineering eventually appeared at this point to improve the scientific
 ### Link to my former supervisors and supervisors
 ***
 - [Marcia Cristina Bernardes Barbosa](https://www.if.ufrgs.br/~barbosa/) 
-    - post-doc research, UFRGS, Brazil (2018-2019).
+    - post-doc research, Federal University of Rio Grande do Sul Brazil (2018-2019).
 - [Benjamin Widom](https://chemistry.cornell.edu/benjamin-widom) 
     - post-doc research, Cornell University, USA (2009-2010).
 - [Fernando Albuquerque Oliveira](http://lattes.cnpq.br/5720500395612472)
-    - post-doc research, UnB, Brazil (2008-2009)).
-- [Vera Bohomoletz Henriques](http://fig.if.usp.br/~vera/) 
-    - Ph.D., USP, Brazil (2003-2008).
+    - post-doc research, UnB, Brazil (2008-2009).
+- [Vera Bohomoletz Henriques](http://fig.if.usp.br/~vera/)
+    - Ph.D., University of Sao Paolo, Brazil (2003-2008).
 - [Antônio Francisco Pereira de Araújo](http://www.lbtc.unb.br/pt/pessoas/17-categoria-pt-br/people/professor/15-antonio-francisco-pereira-de-araujo) 
-    - Ph.D. co-advisor, USP, Brazil (2003-2008).
+    - Ph.D. co-advisor, University of Sao Paolo, Brazil (2003-2008).
+    - Undergraduate Scientific Research, UnB, Brazil (2000-2001).
+
+- [Ricardo Gargano](https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=gargano).
+    - Undergraduate Scientific Research, UnB, (2001-2003).
 
 [cv-lattes]: http://lattes.cnpq.br/5720622055548812
