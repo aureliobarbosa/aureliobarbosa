@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional site</title>
+    <link>http://localhost:1313/portuguese/</link>
+    <description>Recent content on Professional site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portuguese/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/portuguese/education/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portuguese/education/</guid>
+      
+        <description>Educational activities</description>
+      
+    </item>
+    
+    <item>
+      <title>Mentoring</title>
+      <link>http://localhost:1313/portuguese/mentoring/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portuguese/mentoring/</guid>
+      
+        <description>Mentorship and Former Students</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/portuguese/research/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portuguese/research/</guid>
+      
+        <description>Academic Research</description>
+      
+    </item>
+    
+    <item>
+      <title>Science Diffusion</title>
+      <link>http://localhost:1313/portuguese/diffusion/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portuguese/diffusion/</guid>
+      
+        <description>Hugo Diffusions</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portuguese/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portuguese/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/portuguese/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portuguese/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/portuguese/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portuguese/about/</guid>
+      
+        <description>About me</description>
+      
+    </item>
+    
+  </channel>
+</rss>

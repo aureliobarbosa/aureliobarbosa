@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional site</title>
+    <link>http://localhost:1313/english/</link>
+    <description>Recent content on Professional site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Career</title>
+      <link>http://localhost:1313/english/career/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/career/</guid>
+      
+        <description>Academic Career</description>
+      
+    </item>
+    
+    <item>
+      <title>Academic Career</title>
+      <link>http://localhost:1313/english/career_backup_original/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/career_backup_original/</guid>
+      
+        <description>Academic Career</description>
+      
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/english/education/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/education/</guid>
+      
+        <description>Educational activities</description>
+      
+    </item>
+    
+    <item>
+      <title>Mentoring</title>
+      <link>http://localhost:1313/english/mentoring/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/mentoring/</guid>
+      
+        <description>Mentorship and Former Students</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/english/research/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/research/</guid>
+      
+        <description>Academic Research</description>
+      
+    </item>
+    
+    <item>
+      <title>Science Diffusion</title>
+      <link>http://localhost:1313/english/diffusion/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/diffusion/</guid>
+      
+        <description>Hugo Diffusions</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/english/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/english/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/about/</guid>
+      
+        <description>About me</description>
+      
+    </item>
+    
+  </channel>
+</rss>
