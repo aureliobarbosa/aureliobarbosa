@@ -4,7 +4,6 @@ weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-
 # [pt-br]
 # title = "Site profissional"
 # description = "Professor | Pesquisador | Entusiasta de Open Source\n@Universidade de Brasília"

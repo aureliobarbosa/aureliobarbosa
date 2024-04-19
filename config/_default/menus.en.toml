@@ -56,13 +56,6 @@
   url = "/career/"
   parent = "academic"
 
-
-  # [[main]]
-  # name = "Contact"
-  # weight = 600
-  # identifier = "contact"
-  # url = "/contact/"
-
   [[main]]
   name = "About"
   weight = 600
