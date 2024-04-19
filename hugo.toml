@@ -1,4 +1,4 @@
 baseURL = 'https://aureliobarbosa.github.io/aureliobarbosa/'
 languageCode = 'en'
 title = "Marco Barbosa"
-theme = 'anatole-hugo-theme'
+theme = 'anatole'
