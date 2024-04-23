@@ -1,8 +1,8 @@
 
 title = "Marco Barbosa"
 author = "Marco Barbosa"
-copyright = "Marco Barbosa, 2024.\nDeveloped Using [Hugo](https://gohugo.io/) and [Anatole](https://themes.gohugo.io/themes/anatole/)."
-description = "Professor | Researcher | Open Source Enthusiast\n@University of Brasilia"
+copyright = "Marco Barbosa, 2024.<br>Developed Using [Hugo](https://gohugo.io/) with theme [Anatole](https://themes.gohugo.io/themes/anatole/)."
+description = "Professor | Researcher | Open Source Enthusiast<br>@University of Brasilia"
 profilePicture = "images/marco.jpg"
 keywords = ""
 favicon = "favicons/"
