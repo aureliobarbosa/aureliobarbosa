@@ -72,6 +72,12 @@ title = "instagram"
 url = "https://www.instagram.com/professor.marco.barbosa"
 
 [[socialIcons]]
+icon = "fab fa-medium"
+title = "medium"
+url = "https://medium.com/@aureliobarbosa"
+
+
+[[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:aureliobarbosa@gmail.com"
