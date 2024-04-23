@@ -6,6 +6,8 @@ aliases = ["mentoring"]
 author = "Marco Barbosa"
 +++
 
+As a professor, I have had the privilege of teaching and mentoring students in the Master's program in Materials Science from 2011 to 2021. Additionally, I have co-mentored students at other institutions, including Physics Institutes at both the University of Brasilia and the Federal University of Rio Grande do Sul. Moreover, I teach physics, basic chemistry, and computation to undergraduate students majoring in Natural Sciences and Environmental Management at UnB Planaltina.
+
 ### Students involved in academic research (PhD, master and undergrad).
 ***
 
