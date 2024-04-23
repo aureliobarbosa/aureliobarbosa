@@ -33,5 +33,5 @@ In addition to doing research, I have actively participated in various science o
     - Ph.D., University of São Paulo, Brazil (2003-2008).
     - undergraduate research scholar, UnB, Brazil (2000-2001).
 
-- [Ricardo Gargano](https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=gargano).
+- [Ricardo Gargano](https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=gargano)
     - undergraduate research scholar, UnB, (2001-2003).
