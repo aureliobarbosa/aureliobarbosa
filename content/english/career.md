@@ -9,16 +9,14 @@ author = "Marco Barbosa"
 ***
 I completed my bachelor's degree in Physics and specialized in Computational Physics at the [University of Brasilia (UnB)](https://www.unb.br), Brazil, in 2003. Subsequently, I moved to São Paulo and pursued my Ph.D. in Physics at the University of São Paulo, graduating in 2008. After my doctoral studies, I worked as postdoctoral researcher at both UnB and Cornell University. Since 2010, I have been working as a professor at UnB, specifically at the [UnB Planaltina campus](https://fup.unb.br/).
 
-As a professor, I have had the privilege of teaching and mentoring students in the Master's program in Materials Science from 2011 to 2021. Additionally, I have co-mentored students at other institutions, including Physics Institutes at both the University of Brasilia and the Federal University of Rio Grande do Sul. Moreover, I teach physics, basic chemistry, and computation to undergraduate students majoring in Natural Sciences and Environmental Management at UnB Planaltina.
-
-In addition to doing research, I have actively participated in various science outreach projects, I did mentor over 20 undergraduate students, served as Department Chair for a two-year term, and contributed to various administrative tasks.
-
 My original research focused on statistical physics and physical chemistry, particularly exploring systems at the intersection of physics, chemistry, and molecular biology. In collaborating with students and colleagues, I have conducted studies on the properties of liquid water (or similar systems), models for drug delivery, as well as proteins and polymers.
 
 It turn it out that for solving problems and questions related to these subjects typically required a lot of code!
 We frequently developed software using C or Python, created numerous scripts for execution on computer clusters with Linux shell, and created out graphics using gnuplot. Additionally, symbolic calculations were performed using Maple.
 
 This intersection of scientific research and software development led me to recognize the importance of software engineering to enhancing scientific workflows. Ultimately, it has became the focus of my research and investigations.
+
+In addition to doing research, I have actively participated in various science outreach projects, [I did mentor over 20 master, graduate and undergraduate students](/education/), served as Department Chair for a two-year term, and contributed to various administrative and pedagogical tasks.
 
 
 ### Link to my former supervisors
