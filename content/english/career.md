@@ -9,7 +9,7 @@ author = "Marco Barbosa"
 ***
 I completed my bachelor's degree in Physics and specialized in Computational Physics at the [University of Brasilia (UnB)](https://www.unb.br), Brazil, in 2003. Subsequently, I moved to São Paulo and pursued my Ph.D. in Physics at the University of São Paulo, graduating in 2008. After my doctoral studies, I worked as postdoctoral researcher at both UnB and Cornell University. Since 2010, I have been working as a professor at UnB, specifically at the [UnB Planaltina campus](https://fup.unb.br/).
 
-My original research focused on statistical physics and physical chemistry, particularly exploring systems at the intersection of physics, chemistry, and molecular biology. In collaborating with students and colleagues, I have conducted studies on the properties of liquid water (or similar systems), models for drug delivery, as well as proteins and polymers.
+My original research focused on statistical physics and physical chemistry, particularly exploring systems at the intersection of physics, chemistry, and molecular biology. In collaboration with students and colleagues, I have conducted studies on the properties of liquid water (or similar systems), models for drug delivery, as well as proteins and polymers.
 
 It turn it out that for solving problems and questions related to these subjects typically required a lot of code!
 We frequently developed software using C or Python, created numerous scripts for execution on computer clusters with Linux shell, and created out graphics using gnuplot. Additionally, symbolic calculations were performed using Maple.
