@@ -1,4 +1,4 @@
-Hello, I'm Marco Barbosa. Physicist exchanging career to Software Engineer.
+Hello, I'm Marco Barbosa. Physicist studying Software Engineer.
 
 My current goal is to use software engineering techniques such Test-driven Development (TDD) and Continuous Integration/Continuous Delivery (CI/CD) to improve scientific softwares and workflows. To achieve this goal I have being actively developing applications and participating on open source communities of the PyData Ecosystem (Python, Numpy, pandas, among others). I also teach and mentor students to improve their problem solving capabilities using programming languages such as C and Python.
 
